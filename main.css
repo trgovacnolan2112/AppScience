@@ -1,0 +1,37 @@
+.border-style h1:nth-child(1){
+    border-style: dashed;
+}
+
+.background2{
+    background-image:url("../CSSCheckup/assets/app2.png")
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.padding-class{
+    border: 7px solid red;
+    margin: 50px 50px 50px 50px;
+    padding: 20px 40px 40px 40px;
+}
+
+#number-one{
+   color: blueviolet;
+   height: 50x;
+   width: 5%;
+   background-color: Black;
+}
+
+#number-two{
+    color: blue;
+    height: 50x;
+    width: 5%;
+    background-color: Black;
+}
+
+#number-three{
+    color: indigo;
+    height: 50x;
+    width: 5%;
+    background-color: Black;
+}
